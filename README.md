@@ -9,3 +9,8 @@ link to dataset-> https://huggingface.co/datasets/databricks/databricks-dolly-15
 
 MODEL USED ->OPENLLAMA-7B
 This model is a reproduction of Meta AI's LLaMA large language model.It conatin 7b model
+
+
+We have even finetuned the model later to email generation
+
+PRETRAINED-->INSTRUCT_TUNED-->FINETUNED(TASK SPECIFIC)
